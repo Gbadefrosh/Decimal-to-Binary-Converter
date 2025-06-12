@@ -2,20 +2,6 @@ package Binary;
 
 import java.util.Scanner;
 
-
-/**
- * Name: Toheeb Olugbade
- 
- * Input: The program accepts a non-negative integer from the user and then asks if they want to convert 
-          another number by entering yes or no.
-   
- * Output: The program prints the binary equivalent of the entered decimal number and displays the time 
-           complexity summary after the user chooses to exit.
- * Variables: The program uses a Scanner object named scanner to read input, an int variable decimal to 
-              store the user’s number, a String variable binary to hold the binary result, and a String  
-              variable continueChoice to track whether the user wants to continue or exit.
- */
-
 public class Binary {
 	 
     public static String decimalToBinary(int decimal) {
