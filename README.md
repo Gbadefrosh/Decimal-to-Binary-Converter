@@ -28,4 +28,4 @@ This Java console application converts any **non-negative decimal number** into 
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Decimal-To-Binary-Recursive-Java.git
+   git clone https://github.com/Gbadefrosh/Decimal-to-Binary-Converter/commit/8550aa83add6107cdb693527a1916df790b9b32b
